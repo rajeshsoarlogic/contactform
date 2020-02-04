@@ -1,0 +1,16 @@
+{
+    "name": "myvendor/contactform",
+    "description": "laravel contactform package",
+    "authors": [
+        {
+            "name": "rajesh",
+            "email": "rajeshgoswami@soarlogic.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+	        "MyVendor\\Contactform\\": "src/"
+	    }
+	}
+}

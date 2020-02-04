@@ -1,0 +1,16 @@
+{
+    "name": "rajesh/slider",
+    "description": "Basic Slick slider",
+    "authors": [
+        {
+            "name": "Rajesh Goswami",
+            "email": "rajeshgoswami@soarlogic.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rajesh\\Slider\\": "src/"
+        }
+    }
+}
